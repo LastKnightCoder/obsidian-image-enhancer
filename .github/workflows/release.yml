@@ -6,7 +6,7 @@ on:
       - "*"
 
 env:
-  PLUGIN_NAME: obsidian-antd
+  PLUGIN_NAME: obsidian-image-enhancder
 
 jobs:
   build:
